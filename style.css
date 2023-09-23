@@ -21,7 +21,7 @@ body {
 }
 
 .nav{
-	padding-left: 680px;
+	padding-left: 650px;
 }
 
 .nav-item{
@@ -42,7 +42,7 @@ body {
 	border-right: 1px solid #fff;
 	padding-right: 10px;
 	height: 50px;
-	padding-left: 50px;
+	padding-left: 40px;
 }
 
 .cart-image{
@@ -52,7 +52,7 @@ body {
 }
 
 .phone{
-	padding-left: 21px;
+	padding-left: 20px;
 }
 
 .num{
